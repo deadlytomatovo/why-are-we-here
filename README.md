@@ -1,1 +1,2 @@
 # why-are-we-here
+## Coming from a background in Design Management and creative Planning, I have always viewed design as an exercise in turning abstract concepts into tangible experiences.However, throughout my practice, I constantly hit an invisible celling: techical execution. 
