@@ -8,7 +8,7 @@ I used an AI conversational assistant as a writing partner and translation bridg
 ## What I Rejected (and Why) — Critical Reflection
 The AI initially generated a conclusion focusing heavily on "bridging design strategy with execution within the IME program" and claimed I "compromised" on my capstone project.
 
-## Why I rejected it**: 
+## Why I rejected it:
 I found it overly formulaic and false to my experience. I didn't "compromise" on my game; I am happy to work on 2D pixel‑art games and genuinely enjoy doing this, so this was not a compromise.I actively sought the best tool I could master (RPG Maker) to realize my vision. Furthermore, I did not want to write cliché academic talk about "strategy." I explicitly instructed the AI to strip away the corporate/academic fluff and state my true goal: I don't care about technical perfection, but I need my future projects to retain their soul, just like my first project did.
 
 ## Summary
