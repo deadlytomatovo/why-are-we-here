@@ -13,3 +13,7 @@ Through this course, my goal is not to become a professional programmer overnigh
 Ultimately, learning to code is not about transforming into a software engineer or abandoning design intuition. It is about expanding the canvas of what is possible. Tools will continue to evolve, and AI models will inevitably become more capable, but the vision and emotional core of a project must come from the designer. So as I said, I am here to expand the range of tools I can use to achieve my goals. Learning to code gives me the power to define my own creative boundaries. It allows me to step beyond working around limitations and become a creator who truly shapes the work.
 
 Learning programming is not about abandoning my design management background to become a full-time software engineer, nor is it about blindly chasing technical perfection. Looking ahead, I do not need every personal project I create to be technically flawless. What matters most to me is that every work I produce retains its soul—just like my very first project did.
+## References
+
+* Crawford, K. (2021). *Atlas of AI: Power, politics, and the planetary costs of artificial intelligence*. Yale University Press.
+* Murray, J. H. (2017). *Hamlet on the holodeck: The future of narrative in cyberspace* (MIT Press edition). MIT Press.
